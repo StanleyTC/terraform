@@ -4,6 +4,7 @@
 At this project, we will have the first script that we will develop in terraform. for that, we will make use of documentation that will be necessary for the script to work.
 For this, we must use this [site](https://registry.terraform.io/)
 after that, we will need do acess the [browse providers](https://registry.terraform.io/browse/providers)
+
 ![browse providers](https://user-images.githubusercontent.com/95464654/190253143-59ed8a22-d548-4a11-9724-4d1e930c9db4.png)
 
 ### Browse providers
@@ -14,10 +15,13 @@ When we access the browser providers, we can see how many providers terraform ha
 * Kubernets
 * Alibaba Cloud
 * Oracle Cloud Infrastructure
+
 ![providers](https://user-images.githubusercontent.com/95464654/190253267-8d787d7c-c367-44ce-994a-921b1a61d393.png)
 
 Now we will go AWS, and then to [documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs) button and we will research which aws documentation we want to use
-![providers](https://user-images.githubusercontent.com/95464654/190254009-17c3e111-51e2-4e9b-8572-9fd2c23be85d.png)
+
+![documetation](https://user-images.githubusercontent.com/95464654/190259502-58e44d4d-8566-4b8d-9551-fd29ce2013cb.png)
+
 
 ## Starting our First Script
 The first thing we will need to do is create a main file, so, the main.tf at this folder is our first file for our script
