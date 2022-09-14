@@ -12,4 +12,4 @@ terraform, ECS Fargate: creations and deploying
 * Useful commands.md
 
 ## Simple projects:
-* S3 bucket with terraform.tf
+### First script terraform (folder)
