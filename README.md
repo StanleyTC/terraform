@@ -20,3 +20,19 @@ we created here a simple script that generates an s3 bucket on aws
 * main.tf
 * variables.tf
 we created a code that starts an EC2 instance, and we introduced variables
+
+## Moderate projects:
+### Interpolation-Locals-Outputs(S3)(folder)
+We created here a s3 bucket using interpolation, locals and outputs
+
+## Big projects:
+## Creating an AWS lambda and lambda layer (communicating with api)(folder)
+At this project, we will try to create an AWS Lambda to communicate with an api
+
+
+## Unregistered projects:
+### Creation of two lambdas to access a S3 bucket
+this project was updated in GitLab, but the folder was deleted by the author, 
+no registery
+
+

@@ -1,5 +1,8 @@
 # S3 Bucket With Terraform
 
+an important service for an aws cloud architect is the s3 bucket. With this in mind, the following project was designed:
+
+![0_8qgeGxrtC7ynPl8I](https://user-images.githubusercontent.com/95464654/190511408-2ed0b1f7-fa23-4e59-9307-b4a7a91ab845.png)
 
 At this project, we will have the first script that we will develop in terraform. for that, we will make use of documentation that will be necessary for the script to work.
 For this, we must use this [site](https://registry.terraform.io/)
