@@ -1,4 +1,4 @@
-# First Script Terraform
+# S3 Bucket With Terraform
 
 
 At this project, we will have the first script that we will develop in terraform. for that, we will make use of documentation that will be necessary for the script to work.
