@@ -1,12 +1,9 @@
-provider "aws" {
-    region = var.aws_region
-    
-}
-
+#The interpolation will be used at line 4
 
 resource "aws_s3_bucket" "my_bucket" { 
-  bucket = "my-bucket020202022" 
-  acl = "Private" 
+  bucket = "${random_pet.bucket.id}-${var.environment}"
+
+    
 
   tags = {
     Name        = "My bucket"

@@ -7,11 +7,6 @@ variable "aws_region" {
 
 
 
-variable "instance_type" {
-    type = string
-    description = ""
-    default = "t3.micro"
-}
 
 #Finally, we will create a variable for our tags
 
