@@ -26,7 +26,7 @@ we created a code that starts an EC2 instance, and we introduced variables
 We created here a s3 bucket using interpolation, locals and outputs
 
 ## Big projects:
-## Creating an AWS lambda and lambda layer (communicating with api)(folder)
+### Creating an AWS lambda and lambda layer (communicating with api)(folder)
 At this project, we will try to create an AWS Lambda to communicate with an api
 
 
